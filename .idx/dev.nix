@@ -10,6 +10,6 @@
     pkgs.wget
     pkgs.git
     pkgs.python3
-    pkgs.cloud-image-utils
+    pkgs.cloud-utils
   ];
 }
