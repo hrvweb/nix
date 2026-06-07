@@ -9,6 +9,7 @@
     pkgs.gnugrep
     pkgs.wget
     pkgs.git
+    pkgs.openssh
     pkgs.python3
     pkgs.cloud-utils
   ];
